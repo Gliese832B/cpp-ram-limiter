@@ -1,6 +1,6 @@
 ﻿// deneme.cpp : Bu dosya 'main' işlevi içeriyor. Program yürütme orada başlayıp biter.
 //
-
+// Thanks Iprogramİncpp for helps
 #include <iostream>
 #include <cstdio>
 #include <Windows.h>
